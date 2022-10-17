@@ -1,8 +1,6 @@
 # Frontend-Assignment React Native Youkraft
 
-#### Instructions
-
-1.This Docs file contain the answer of below two questions
+#### This Docs file contain the answer of below two questions
 
 ### Question number 1
 
